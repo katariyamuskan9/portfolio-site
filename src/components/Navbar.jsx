@@ -9,7 +9,7 @@ const Navbar = () => {
         <div >
             <nav className=' mb-16 flex items-center justify-between py-2'>
                 <div className='flex flex-shrink items-center'>
-                   <h1 className='text-4xl lg:6xl font-bold'>Hello <span className='text-pink-300'>World!!</span></h1>
+                   <h1 className='text-2xl lg:text-4xl font-bold'>Hello <span className='text-pink-300'>World!!</span></h1>
                 </div>
                 <div className='flex justify-center items-center m-8 gap-4  text-2xl'>
              <FaGithub />
