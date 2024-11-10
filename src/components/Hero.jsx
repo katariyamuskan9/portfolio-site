@@ -9,7 +9,7 @@ const Hero = () => {
                 <h1 className='tracking-tight max-w-2xl pb-8 text-4xl font-thin  lg:text-6xl'>
                      I am Muskan Katariya
                 </h1>
-                <span className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl text-transparent '> A Front End Developer</span>
+                <span className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-2xl lg:text-4xl text-transparent '> A Front End Developer</span>
                 <p className='my-2 max-w-xl py-4 font-light tracking-tighter '>
                 "Passionate front-end developer with 3 years of experience in crafting responsive, engaging interfaces. Skilled in React, JavaScript, and modern web tech, I transform complex ideas into intuitive, user-friendly designs. Driven by growth, I'm eager to tackle new challenges and innovate on the web."</p>
 
